@@ -56,13 +56,13 @@ Clone the repository to your local machine using the following
 
    
 
-    git clone https://github.com/LabibAhmedSiddique/Sentiment-analysis-API.git   
+    https://github.com/LabibAhmedSiddique/algoritmic-trading-.git 
     
    get into to the project directory using the following command
 
  
 
-    cd Sentiment-analysis-API
+    cd algoritmic-trading-
 
 create a python virtual environment 
 
