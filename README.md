@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `StockTrader` class represents a simple trading strategy based on the concept of golden crosses and golden death cross in algorithmic trading technical analysis. It allows users to simulate buying and selling stocks using historical market data via analyzing the short term and long term moving average.
+The `StockTrader` class represents a simple trading strategy based on the concept of golden crosses and golden death cross in algorithmic trading technical analysis. It allows users to simulate buying and selling stocks using historical market data via analyzing the short term and long term moving average.The strategy is we will take a buying position on the first golden cross and when a reversel happens we sell all of them; if there is no reversal we sell it on the last day 
 
 ## Attributes
 
@@ -77,9 +77,9 @@ after you activate the virtual environment run the `requirements.txt` file to in
      pip install -r requirements.txt
 
 ### Run the project
-Now inside terminal run the `app.py` file using the following command
+Now inside terminal run the `main.py` file using the following command
 
-
+     py main.py
 
 ## Example Usage
 
